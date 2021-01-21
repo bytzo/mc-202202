@@ -1,0 +1,14 @@
+{
+	"schemaVersion": 1,
+	"id": "mc-202202",
+	"version": "0.1.0",
+	"environment": "client",
+	"mixins": [
+		"mc-202202.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.7.2",
+		"minecraft": ">=1.16-alpha.20.22.a <1.17-alpha.21.03.a"
+	},
+	"license": "MIT"
+}
