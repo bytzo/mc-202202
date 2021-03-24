@@ -1,7 +1,6 @@
 {
 	"package": "net.bytzo.mc_202202.client.mixin",
 	"client": [
-		"ClientPacketListenerMixin",
 		"PlayerMixin"
 	]
 }
