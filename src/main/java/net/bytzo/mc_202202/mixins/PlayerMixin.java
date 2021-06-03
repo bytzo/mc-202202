@@ -1,4 +1,4 @@
-package net.bytzo.mc_202202.client.mixin;
+package net.bytzo.mc_202202.mixins;
 
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Shadow;
